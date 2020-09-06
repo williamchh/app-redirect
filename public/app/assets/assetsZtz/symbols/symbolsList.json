@@ -1,0 +1,1094 @@
+{
+    "symbol": [
+        {
+            "symbolCode": "EURUSD",
+            "symbolName": "EURUSD",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "AUDUSD",
+            "symbolName": "AUDUSD",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "GBPUSD",
+            "symbolName": "GBPUSD",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "NZDUSD",
+            "symbolName": "NZDUSD",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "USDJPY",
+            "symbolName": "USDJPY",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "USDCAD",
+            "symbolName": "USDCAD",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "USDCHF",
+            "symbolName": "USDCHF",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "AUDCAD",
+            "symbolName": "AUDCAD",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "AUDJPY",
+            "symbolName": "AUDJPY",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "AUDNZD",
+            "symbolName": "AUDNZD",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "CADJPY",
+            "symbolName": "CADJPY",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "CHFJPY",
+            "symbolName": "CHFJPY",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "EURAUD",
+            "symbolName": "EURAUD",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "EURCAD",
+            "symbolName": "EURCAD",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "EURGBP",
+            "symbolName": "EURGBP",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "EURJPY",
+            "symbolName": "EURJPY",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "EURNZD",
+            "symbolName": "EURNZD",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "EURSGD",
+            "symbolName": "EURSGD",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "GBPCHF",
+            "symbolName": "GBPCHF",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "GBPAUD",
+            "symbolName": "GBPAUD",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "GBPNZD",
+            "symbolName": "GBPNZD",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "NZDCAD",
+            "symbolName": "NZDCAD",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "NZDJPY",
+            "symbolName": "NZDJPY",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "USDSGD",
+            "symbolName": "USDSGD",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "USDCNH",
+            "symbolName": "USDCNH",
+            "symbolMarket": "FX"
+        },
+        {
+            "symbolCode": "XAGUSD",
+            "symbolName": "XAGUSD",
+            "symbolMarket": "METAL"
+        },
+        {
+            "symbolCode": "XAUUSD",
+            "symbolName": "XAUUSD",
+            "symbolMarket": "METAL"
+        },
+        {
+            "symbolCode": "COPPER",
+            "symbolName": "COPPER",
+            "symbolMarket": "METAL"
+        },
+        {
+            "symbolCode": "BRENT",
+            "symbolName": "BRENT",
+            "symbolMarket": "COMMODITY"
+        },
+        {
+            "symbolCode": "WTI",
+            "symbolName": "WTI",
+            "symbolMarket": "COMMODITY"
+        },
+        {
+            "symbolCode": "NGAS",
+            "symbolName": "NGAS",
+            "symbolMarket": "COMMODITY"
+        },
+        {
+            "symbolCode": "ALIBABA",
+            "symbolName": "ALIBABA",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "ALLIANZ",
+            "symbolName": "ALLIANZ",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "ALCOA",
+            "symbolName": "ALCOA",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "ALTABA",
+            "symbolName": "ALTABA",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "AMAZON",
+            "symbolName": "AMAZON",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "AMGEN",
+            "symbolName": "AMGEN",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "APPLE",
+            "symbolName": "APPLE",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "BOEING",
+            "symbolName": "BOEING",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "CATERPILLAR",
+            "symbolName": "CATERPILLAR",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "CELGENE",
+            "symbolName": "CELGENE",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "CITIGROUP",
+            "symbolName": "CITIGROUP",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "COCACOLA",
+            "symbolName": "COCACOLA",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "DISNEY",
+            "symbolName": "DISNEY",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "EXXON",
+            "symbolName": "EXXON",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "FACEBOOK",
+            "symbolName": "FACEBOOK",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "FORD",
+            "symbolName": "FORD",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "GE",
+            "symbolName": "GE",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "GILEAD",
+            "symbolName": "GILEAD",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "GM",
+            "symbolName": "GM",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "GOLDMAN",
+            "symbolName": "GOLDMAN",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "GOOGLE",
+            "symbolName": "GOOGLE",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "HARLEYDAVID",
+            "symbolName": "HARLEYDAVID",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "HSBC",
+            "symbolName": "HSBC",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "IBM",
+            "symbolName": "IBM",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "ING",
+            "symbolName": "ING",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "INTEL",
+            "symbolName": "INTEL",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "JD",
+            "symbolName": "JD",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "JPMORGAN",
+            "symbolName": "JPMORGAN",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "LOCKHEED",
+            "symbolName": "LOCKHEED",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "LYFT",
+            "symbolName": "LYFT",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "MASTERCARD",
+            "symbolName": "MASTERCARD",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "MCDONALDS",
+            "symbolName": "MCDONALDS",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "MICROSOFT",
+            "symbolName": "MICROSOFT",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "NETFLIX",
+            "symbolName": "NETFLIX",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "NIO",
+            "symbolName": "NIO",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "NOKIA",
+            "symbolName": "NOKIA",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "NOVARTIS",
+            "symbolName": "NOVARTIS",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "NVIDIA",
+            "symbolName": "NVIDIA",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "ORANGE",
+            "symbolName": "ORANGE",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "PFIZER",
+            "symbolName": "PFIZER",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "REGENERON",
+            "symbolName": "REGENERON",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "SAP",
+            "symbolName": "SAP",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "SHELL",
+            "symbolName": "SHELL",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "SNAP",
+            "symbolName": "SNAP",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "STARBUCKS",
+            "symbolName": "STARBUCKS",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "TESLA",
+            "symbolName": "TESLA",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "TILRAY",
+            "symbolName": "TILRAY",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "TWITTER",
+            "symbolName": "TWITTER",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "UBER",
+            "symbolName": "UBER",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "UBS",
+            "symbolName": "UBS",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "VISA",
+            "symbolName": "VISA",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "VODAFONE",
+            "symbolName": "VODAFONE",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "YUM",
+            "symbolName": "YUM",
+            "symbolMarket": "US"
+        },
+        {
+            "symbolCode": "AFTERPAY",
+            "symbolName": "AFTERPAY",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "AGLENERGY",
+            "symbolName": "AGLENERGY",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "AMP",
+            "symbolName": "AMP",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "ANZBANK",
+            "symbolName": "ANZBANK",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "ARISTOCRAT",
+            "symbolName": "ARISTOCRAT",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "BENDIGOBANK",
+            "symbolName": "BENDIGOBANK",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "BHPAU",
+            "symbolName": "BHPAU",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "BLUESCOPE",
+            "symbolName": "BLUESCOPE",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "BORAL",
+            "symbolName": "BORAL",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "BRAMBLES",
+            "symbolName": "BRAMBLES",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "COCHLEAR",
+            "symbolName": "COCHLEAR",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "COMMWEALTH",
+            "symbolName": "COMMWEALTH",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "COMPUSHARE",
+            "symbolName": "COMPUSHARE",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "CROWN",
+            "symbolName": "CROWN",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "CSL",
+            "symbolName": "CSL",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "DOMINOSAU",
+            "symbolName": "DOMINOSAU",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "FLIGHTCTR",
+            "symbolName": "FLIGHTCTR",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "FORTESCUE",
+            "symbolName": "FORTESCUE",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "HEALTHSCOPE",
+            "symbolName": "HEALTHSCOPE",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "INSURANCEAU",
+            "symbolName": "INSURANCEAU",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "LENDLEASE",
+            "symbolName": "LENDLEASE",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "MACQUARIE",
+            "symbolName": "MACQUARIE",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "NATAUBANK",
+            "symbolName": "NATAUBANK",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "NEWCREST",
+            "symbolName": "NEWCREST",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "OILSEARCH",
+            "symbolName": "OILSEARCH",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "ORICA",
+            "symbolName": "ORICA",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "ORIGIN",
+            "symbolName": "ORIGIN",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "QANTAS",
+            "symbolName": "QANTAS",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "REAGROUP",
+            "symbolName": "REAGROUP",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "RIOTINTO",
+            "symbolName": "RIOTINTO",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "SANTOS",
+            "symbolName": "SANTOS",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "SCENTRE",
+            "symbolName": "SCENTRE",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "SEEK",
+            "symbolName": "SEEK",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "SEVEN",
+            "symbolName": "SEVEN",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "SUNCORP",
+            "symbolName": "SUNCORP",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "SYDNEYAIR",
+            "symbolName": "SYDNEYAIR",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "TELSTRA",
+            "symbolName": "TELSTRA",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "TPGTELECOM",
+            "symbolName": "TPGTELECOM",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "TREASURY",
+            "symbolName": "TREASURY",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "WESFARMERS",
+            "symbolName": "WESFARMERS",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "WESTPACBANK",
+            "symbolName": "WESTPACBANK",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "WHITEHAVEN",
+            "symbolName": "WHITEHAVEN",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "WOODSIDE",
+            "symbolName": "WOODSIDE",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "WOOLWORTHS",
+            "symbolName": "WOOLWORTHS",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "XERO",
+            "symbolName": "XERO",
+            "symbolMarket": "AU"
+        },
+        {
+            "symbolCode": "ACCOR",
+            "symbolName": "ACCOR",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "AIRBUS",
+            "symbolName": "AIRBUS",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "ASTONMARTIN",
+            "symbolName": "ASTONMARTIN",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "ASTRAZENECA",
+            "symbolName": "ASTRAZENECA",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "AXA",
+            "symbolName": "AXA",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "BASF",
+            "symbolName": "BASF",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "BARCLAYS",
+            "symbolName": "BARCLAYS",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "BAYER",
+            "symbolName": "BAYER",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "BMW",
+            "symbolName": "BMW",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "BNP",
+            "symbolName": "BNP",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "COMMERZBANK",
+            "symbolName": "COMMERZBANK",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "CONTINENTAL",
+            "symbolName": "CONTINENTAL",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "DBANK",
+            "symbolName": "DBANK",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "DBOERSE",
+            "symbolName": "DBOERSE",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "DRILLISCH",
+            "symbolName": "DRILLISCH",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "ELLAKTOR",
+            "symbolName": "ELLAKTOR",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "ENEL",
+            "symbolName": "ENEL",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "EUROBANK",
+            "symbolName": "EUROBANK",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "INTESA",
+            "symbolName": "INTESA",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "LINDE",
+            "symbolName": "LINDE",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "MUNICHRE",
+            "symbolName": "MUNICHRE",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "NEMETSCHEK",
+            "symbolName": "NEMETSCHEK",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "PORSCHE",
+            "symbolName": "PORSCHE",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "RATIONAL",
+            "symbolName": "RATIONAL",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "REPSOL",
+            "symbolName": "REPSOL",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "RWE",
+            "symbolName": "RWE",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "SABADELL",
+            "symbolName": "SABADELL",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "SANTANDER",
+            "symbolName": "SANTANDER",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "SIEMENS",
+            "symbolName": "SIEMENS",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "TELEFONICA",
+            "symbolName": "TELEFONICA",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "UNICREDIT",
+            "symbolName": "UNICREDIT",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "VOLKSWAGEN",
+            "symbolName": "VOLKSWAGEN",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "WACKERCHEM",
+            "symbolName": "WACKERCHEM",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "WIRECARD",
+            "symbolName": "WIRECARD",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "LUFTHANSA",
+            "symbolName": "LUFTHANSA",
+            "symbolMarket": "EU"
+        },
+        {
+            "symbolCode": "AUS200",
+            "symbolName": "AUS200",
+            "symbolMarket": "INDICES"
+        },
+        {
+            "symbolCode": "CHINA50",
+            "symbolName": "CHINA50",
+            "symbolMarket": "INDICES"
+        },
+        {
+            "symbolCode": "FRA40",
+            "symbolName": "FRA40",
+            "symbolMarket": "INDICES"
+        },
+        {
+            "symbolCode": "GER30",
+            "symbolName": "GER30",
+            "symbolMarket": "INDICES"
+        },
+        {
+            "symbolCode": "HK50",
+            "symbolName": "HK50",
+            "symbolMarket": "INDICES"
+        },
+        {
+            "symbolCode": "JPN225",
+            "symbolName": "JPN225",
+            "symbolMarket": "INDICES"
+        },
+        {
+            "symbolCode": "NAS100",
+            "symbolName": "NAS100",
+            "symbolMarket": "INDICES"
+        },
+        {
+            "symbolCode": "SPX500",
+            "symbolName": "SPX500",
+            "symbolMarket": "INDICES"
+        },
+        {
+            "symbolCode": "UK100",
+            "symbolName": "UK100",
+            "symbolMarket": "INDICES"
+        },
+        {
+            "symbolCode": "US30",
+            "symbolName": "US30",
+            "symbolMarket": "INDICES"
+        },
+        {
+            "symbolCode": "600028",
+            "symbolName": "中国石化",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "000002",
+            "symbolName": "万科A",
+            "symbolMarket": "sz"
+        },
+        {
+            "symbolCode": "601360",
+            "symbolName": "三六零",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "600104",
+            "symbolName": "上汽集团",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "600018",
+            "symbolName": "上港集团",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "600030",
+            "symbolName": "中信证券",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "601998",
+            "symbolName": "中信银行",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "601766",
+            "symbolName": "中国中车",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "601390",
+            "symbolName": "中国中铁",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "601800",
+            "symbolName": "中国交建",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "601628",
+            "symbolName": "中国人寿",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "601601",
+            "symbolName": "中国太保",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "601318",
+            "symbolName": "中国平安",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "601668",
+            "symbolName": "中国建筑",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "601088",
+            "symbolName": "中国神华",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "601857",
+            "symbolName": "中国石油",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "600050",
+            "symbolName": "中国联通",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "601186",
+            "symbolName": "中国铁建",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "601988",
+            "symbolName": "中国银行",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "000858",
+            "symbolName": "五粮液",
+            "symbolMarket": "sz"
+        },
+        {
+            "symbolCode": "601328",
+            "symbolName": "交通银行",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "600887",
+            "symbolName": "伊利股份",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "600048",
+            "symbolName": "保利地产",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "601818",
+            "symbolName": "光大银行",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "601288",
+            "symbolName": "农业银行",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "601169",
+            "symbolName": "北京银行",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "601211",
+            "symbolName": "国泰君安",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "600019",
+            "symbolName": "宝钢股份",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "601398",
+            "symbolName": "工商银行",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "000001",
+            "symbolName": "平安银行",
+            "symbolMarket": "sz"
+        },
+        {
+            "symbolCode": "601939",
+            "symbolName": "建设银行",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "600036",
+            "symbolName": "招商银行",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "600276",
+            "symbolName": "恒瑞医药",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "001979",
+            "symbolName": "招商蛇口",
+            "symbolMarket": "sz"
+        },
+        {
+            "symbolCode": "601336",
+            "symbolName": "新华保险",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "000651",
+            "symbolName": "格力电器",
+            "symbolMarket": "sz"
+        },
+        {
+            "symbolCode": "600016",
+            "symbolName": "民生银行",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "002304",
+            "symbolName": "洋河股份",
+            "symbolMarket": "sz"
+        },
+        {
+            "symbolCode": "002415",
+            "symbolName": "海康威视",
+            "symbolMarket": "sz"
+        },
+        {
+            "symbolCode": "600585",
+            "symbolName": "海螺水泥",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "000333",
+            "symbolName": "美的集团",
+            "symbolMarket": "sz"
+        },
+        {
+            "symbolCode": "600519",
+            "symbolName": "贵州茅台",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "600900",
+            "symbolName": "长江电力",
+            "symbolMarket": "sh"
+        },
+        {
+            "symbolCode": "002352",
+            "symbolName": "顺丰控股",
+            "symbolMarket": "sz"
+        }
+    ]
+}

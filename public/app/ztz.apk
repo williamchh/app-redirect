@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="index, follow" />
+    <meta
+      name="keywords"
+      content="Forex, Stock, Indices, Commodity, signals, strategy, 外汇, 股票, 交易, 信号"
+    />
+    <meta
+      name="description"
+      content="ZTZ图表提供实时外汇, 股票, 指数, 商品交易策略. Forex Signals and Strategy provider. ZTZ Chart provides real-time forex, stock, indices and commodity trading strategy and signals, including Euro, JPY, GBP, CAD, CHF, AUD, SGD, Gold, Brent, WTI"
+    />
+    <title>ZTZ Chart</title>
+  </head>
+  <body>
+    <script src="../app/main.dart.js" type="application/javascript"></script>
+  </body>
+</html>
