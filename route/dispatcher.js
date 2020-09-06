@@ -2,6 +2,7 @@ const axios = require("axios");
 
 module.exports = {
   dispatcherGet: async (url, header) => {
+    header.host = "ztzchart.com";
     const config = {
       method: "GET",
       url: "https://ztzchart.com" + url,
@@ -12,13 +13,26 @@ module.exports = {
     return res.data;
   },
   dispatcherPost: async (url, header, body) => {
+    header.host = "ztzchart.com";
     const config = {
-      method: "post",
+      // method: "post",
       url: "https://ztzchart.com" + url,
+      ssl: {
+        rejectUnauthorized: false,
+      },
       headers: header,
     };
-    const res = await axios.post(config.url, body, config);
+    try {
+      const res = await axios({
+        method: "POST",
+        url: config.url,
+        data: body,
+        headers: header,
+      });
 
-    return res.data;
+      return res.data;
+    } catch (error) {
+      return error.message;
+    }
   },
 };
