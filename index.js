@@ -1,9 +1,11 @@
 const express = require("express");
+var bodyParser = require("body-parser");
 const app = express();
 const port = 5000;
 
 const { dispatcherGet, dispatcherPost } = require("./route/dispatcher");
-
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
 app.use("/", async (req, res) => {
   if (req.method === "GET") {
     res.send(await dispatcherGet(req.url, req.headers));
